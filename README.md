@@ -35,8 +35,6 @@ Integração com SQL Server para relatórios em tempo real.
 
 ### 📈 GitHub Stats
 
-> 📌 *Se os gráficos não aparecerem, pode ser instabilidade da API. Atualize a página ou gere os seus próprios seguindo [este tutorial](https://github.com/anuraghazra/github-readme-stats)*
-
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeoNarcisoDev&show_icons=true&theme=midnight-purple&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoNarcisoDev&layout=compact&langs_count=7&theme=midnight-purple"/>
