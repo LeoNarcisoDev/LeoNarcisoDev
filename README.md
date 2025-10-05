@@ -6,70 +6,53 @@
 
 ---
 
-### 👨‍💻 Sobre mim
-
-Mais de 5 anos de experiência em **Tecnologia da Informação**, com atuação em:
-
-- Suporte técnico
-- Infraestrutura de sistemas e redes
-- Administração de plataformas digitais
-
-Atualmente focado em **Análise de Dados, Business Intelligence e Automação de Processos** com Python e SQL.
+🧠 Background em suporte técnico, redes e infraestrutura  
+📊 Atualmente mergulhado em Python, SQL, Power BI e Data Science  
+🎯 Buscando oportunidades como **Analista de Dados Júnior**
 
 ---
 
-### 🎯 Em busca de
+### 🛠️ Tecnologias e Ferramentas
 
-**Oportunidades como Analista de Dados Júnior**  
-Profissional resiliente, com bagagem técnica e visão de negócio.
-
----
-
-### 🧠 Tecnologias que domino
-
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql)
-![Power BI](https://img.shields.io/badge/-PowerBI-05122A?style=flat&logo=powerbi)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
-![Redes](https://img.shields.io/badge/-Redes-05122A?style=flat)
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux)
+![Redes](https://img.shields.io/badge/-Networking-006400?style=flat)
 
 ---
 
-### 🚀 Projetos em Destaque
+### 🚀 Últimos Projetos
 
-🔹 **Automação de Métricas de Marketing/Vendas**  
-Redução de 90% no tempo de análise de dados com pipelines Python.
+🔹 **Automação de métricas de marketing/vendas**  
+Redução de 90% no tempo de análise com pipelines em Python.
 
-🔹 **Dashboards Dinâmicos**  
-Power BI integrado com SQL para relatórios estratégicos em tempo real.
-
----
-
-### 📫 Onde me encontrar
-
-- Email: [leoonarciso@outlook.com](mailto:leoonarciso@outlook.com)  
-- LinkedIn: [linkedin.com/in/leonardo-narciso-909b53297](https://www.linkedin.com/in/LeonardoNarciso)
+🔹 **Dashboards interativos com Power BI**  
+Integração com SQL Server para relatórios em tempo real.
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeoNarcisoDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoNarcisoDev&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
+> 📌 *Se os gráficos não aparecerem, pode ser instabilidade da API. Atualize a página ou gere os seus próprios seguindo [este tutorial](https://github.com/anuraghazra/github-readme-stats)*
 
----
-
-### 💬 Curto:
-
-- Resolver problemas com lógica e código  
-- Dados bem tratados e entregues com clareza  
-- Automatizar processos e poupar tempo
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeoNarcisoDev&show_icons=true&theme=midnight-purple&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoNarcisoDev&layout=compact&langs_count=7&theme=midnight-purple"/>
+</div>
 
 ---
 
-<p align="center">
+### 📬 Bora trocar uma ideia?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/LeonardoNarciso)
+[![Email](https://img.shields.io/badge/Email-leoonarciso@outlook.com-blue?style=flat&logo=gmail&logoColor=white)](mailto:leoonarciso@outlook.com)
+
+---
+
+🧍‍♂️ Resumo: técnico, analítico, direto e pronto pra gerar valor com dados.  
+🎯 Sempre evoluindo. Sempre entregando resultado.
+
   <strong>🚀 Sempre evoluindo. Sempre entregando valor. 🚀</strong>
 </p>
