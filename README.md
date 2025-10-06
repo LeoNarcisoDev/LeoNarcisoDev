@@ -1,7 +1,7 @@
 <h1 align="center">Fala aí 👊, eu sou o Leonardo Narciso</h1>
 
 <p align="center">
-  <strong>Profissional de TI em epecializando em Análise de Dados | Python | SQL | PowerBI </strong>
+  <strong>Profissional de TI se epecializando em Análise de Dados | Python | SQL | PowerBI </strong>
 </p>
 
 ---
