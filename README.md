@@ -8,7 +8,7 @@
 
 🧠 Background em suporte técnico, redes e infraestrutura  
 📊 Atualmente mergulhado em Python, SQL, Power BI e Data Science  
-🎯 Buscando oportunidades como **Analista de Dados**
+
 
 ---
 
